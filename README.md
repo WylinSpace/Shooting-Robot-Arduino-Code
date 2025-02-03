@@ -1,4 +1,11 @@
 # Shooting-Robot-Arduino-Code
+
+##CLaim
+
+Writen by Wen Hao, all right reserved.
+
+##Content
+
 I had written the codes for a microprocessor, which will be using on a moving robot that is designed to shoot Ping-pong ball as a basketball simulation.
 
 There are two files in this section:
