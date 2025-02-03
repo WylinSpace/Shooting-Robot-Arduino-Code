@@ -1,4 +1,4 @@
-# Shooting-Robot-Arduino-Code
+# Shooting Robot Arduino Code
 
 ## Claim
 
